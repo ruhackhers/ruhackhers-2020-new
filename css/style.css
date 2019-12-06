@@ -44,14 +44,14 @@ section {
 }
 .logo {
   position: relative;
-  width: auto;
+  width: 700px;
   height: 430px;
   top: -20px;
 }
 .logo img {
   margin: 0 auto;
   width: 100%;
-  position: absolute;
+  position: relative;
   left: 0;
 }
 .bgimg {
