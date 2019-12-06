@@ -52,7 +52,7 @@ section {
   max-width: 100%;
   position: absolute;
   left: 0;
-  top: 0;
+  top: -4px;
 }
 .bgimg {
     background-image: url('../img/bg_new.png');
